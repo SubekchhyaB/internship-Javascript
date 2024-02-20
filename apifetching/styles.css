@@ -1,0 +1,18 @@
+ #box {
+     display: flex;
+     flex-direction: column;
+     box-sizing: border-box;
+     padding: 10px 10px;
+     box-shadow: rgb(36, 34, 34);
+     border: 2px solid black;
+     border-radius: 10px;
+     background-color: bisque;
+     text-align: left;
+     font-size: 1.3rem;
+ }
+ 
+ .box {
+     border: 1px solid #000000;
+     margin-bottom: 5px;
+     padding: 5px;
+ }
